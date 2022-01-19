@@ -7,7 +7,6 @@ MOFHY Lite is a priceless MyOwnFreeHost Client Area for account management, tick
 ![AppVeyor](https://img.shields.io/badge/Dependencies-php-lightgrey)
 ![AppVeyor](https://img.shields.io/badge/Dependencies-mysql-lightgrey)
 ![AppVeyor](https://img.shields.io/badge/Interface-Digit-lightgrey)
-![AppVeyor](https://img.shields.io/badge/Development-Discontinued-lightgrey) 
 
 ## Table of Content 
 - [Features](#features)
@@ -74,7 +73,7 @@ The following libraries are required to run MOFHY Lite:
 - gogetssl
 
 ## SMTP
-Here are some widely used SMTP services. They have a free plan with some limitations though, most importantly they are compatible with MOFHY-Lite.
+Here are some widely used SMTP services. They have a free plan with some limitations, although they are compatible with MOFHY-Lite.
 - [Mailgun](https://www.mailgun.com/)
 - [Sendinblue](https://sendinblue.com/)
 - [SendClean](https://sendclean.com/)
@@ -90,7 +89,6 @@ Here are some widely used SMTP services. They have a free plan with some limitat
 
 ## Contributer
 The core is created by [Mahtab Hassan](https://github.com/mahtab2003)
-And the Multi Lang System and translations by [Santy Designs](https://santydesigns.com) with the contributions of @ImLoadingUuU and @OverdueWeevil2.
 
 ## Copyright
 Code ©️ Copyright 2021 MOFHY Lite. Code released under the MIT license.
