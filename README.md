@@ -51,18 +51,18 @@ Your server need to met minimal requirements to run MOFHY Lite:
 
 ## Installation 
 Installation of MOFHY Lite is much eaiser then you think!
-- Download the ```Desired Buld``` file. 
-- Extract the .zip file to the root folder of your domain. 
-- Create an empty database for the project
-- Open your browser and type ```http://yourdomain.com/``` an installation page will be appear. 
-- After clicking "install" you have to fill out your database details and click on validate to connect to the database. 
-- Fill out the clientarea name, clientarea URL:```http://example.com/```, and clientarea email. Then click next. 
-- Register an admin account for free. 
-- Rename or remove the "installation" directory form src directory. (This is super important!)
-- Access the admin panel at ```http://example.com/admin/```. 
-- Set callback url to ```http://example.com/callback/Callback.php``` in the MOFH Reseller panel (panel.myownfreehostnet).
-- Set up the API in "API Settings" in the admin area (```http://example.com/admin/```).
-- Set up the Domain Extensions (Free subdomains) in the admin panel (```http://example.com/admin/```).
+- Download the zip file from GitHub
+- Extract the .zip file to the root folder of your domain (You may have to extract it on your computer before uploading)
+- Create a new and empty database for the project
+- Open your browser and type ```http://yourdomain.com/``` an installation page will be appear
+- After clicking "install" you have to fill out your database details and click on validate to connect to the database 
+- Fill out the clientarea name, clientarea URL:```http://example.com/``` (The trailing slash is important), and clientarea email. Then click "next"
+- Register the Admin account
+- Rename or remove the "installation" directory form src directory (This is super important!)
+- Access the admin panel at ```http://example.com/admin/``` 
+- Set callback url to ```http://example.com/callback/Callback.php``` in the MOFH Reseller panel (panel.myownfreehostnet)
+- Set up the API in "API Settings" in the admin area (```http://example.com/admin/```)
+- Set up the Domain Extensions (Free subdomains) in the admin panel (```http://example.com/admin/```)
 - All done! 
 
 ## Extra Setup Steps
@@ -93,7 +93,8 @@ Here are some widely used SMTP services. They have a free plan with some limitat
 - [MOFHY PLUS](https://mofhyplus.rf.gd)
 
 ## Contributer
-This a community version, code by [Mahtab Hassan](https://github.com/mahtab2003) and maintained by Community.
+This a community version, origonal code by [Mahtab Hassan](https://github.com/mahtab2003). 
+Maintance and updates provided by the MOFHY community.
 
 ## Copyright
-Code ©️ Copyright 2021 MOFHY Lite. Code released under the MIT license.
+Code ©️ Copyright 2021 MOFHY Developers. Code released under the MIT license.
