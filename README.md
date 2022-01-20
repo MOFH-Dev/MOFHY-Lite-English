@@ -88,7 +88,7 @@ Here are some widely used SMTP services. They have a free plan with some limitat
 - [MOFHY PLUS](https://mofhyplus.rf.gd)
 
 ## Contributer
-The core is created by [Mahtab Hassan](https://github.com/mahtab2003)
+This a community version, code by [Mahtab Hassan](https://github.com/mahtab2003) and maintained by Community.
 
 ## Copyright
 Code ©️ Copyright 2021 MOFHY Lite. Code released under the MIT license.
