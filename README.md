@@ -1,4 +1,8 @@
 ## MOFHY Lite
+
+### WARNING!
+At this time, both Client and Admin account can be hacked within secconds. PLEASE DO NOT USE MOFHY FOR NON-DEVELOPMENT REASONS! MOFHY Developers are not resposible for any damage caused by hackers. Take a look at [this](https://github.com/mahtab2003/Xera) instead.
+
 MOFHY Lite is a priceless MyOwnFreeHost Client Area for account management, ticket support system and a free ssl service. It has easy to use features much like the WHMCS Digit UI interface. 
 
 Spanish and Multi-Lang version will be released after all security issues have been patched.
@@ -9,9 +13,6 @@ Spanish and Multi-Lang version will be released after all security issues have b
 ![AppVeyor](https://img.shields.io/badge/Dependencies-php-lightgrey)
 ![AppVeyor](https://img.shields.io/badge/Dependencies-mysql-lightgrey)
 ![AppVeyor](https://img.shields.io/badge/Interface-Digit-lightgrey)
-
-### WARNING!
-At this time, both Client and Admin account can be hacked within secconds. PLEASE DO NOT USE MOFHY FOR NON-DEVELOPMENT REASONS! MOFHY Developers are not resposible for any damage caused by hackers.
 
 ## Table of Content 
 - [Features](#features)
